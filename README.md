@@ -1,5 +1,3 @@
-
-
 # Advanced RAG with HyDE and Step-Back Prompting
 
 This project implements an advanced Retrieval-Augmented Generation (RAG) pipeline using HyDE (Hypothetical Document Embeddings) and Step-Back Prompting to improve retrieval quality over a vector store hosted in BigQuery. It leverages Google Vertex AI (Gemini and embeddings) and LangChain for orchestration.
