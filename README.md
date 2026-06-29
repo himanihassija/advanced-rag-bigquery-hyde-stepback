@@ -27,8 +27,6 @@ These approaches increase semantic coverage and recall before downstream answer 
 - BigQuery Vector Search  
 - Google Cloud SDK  
 
-## Setup
-
 ### Environment Variables
 
 PROJECT_ID=your-gcp-project-id  
@@ -64,6 +62,3 @@ The query is expanded using HyDE and Step-Back Prompting before retrieving relev
 - Integrate final answer synthesis  
 - Support additional vector stores  
 
-## Acknowledgements
-
-This project was inspired by concepts learned during an AI workshop and extended through independent implementation and experimentation.
