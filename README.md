@@ -6,8 +6,8 @@ This project implements an advanced Retrieval-Augmented Generation (RAG) pipelin
 
 Traditional RAG systems often struggle with vague, underspecified, or overly specific user queries. This project enhances retrieval quality by introducing two research-backed techniques:
 
-- HyDE: Generates a hypothetical answer to a query and embeds it for retrieval
-- Step-Back Prompting: Rewrites the query into a more abstract form to retrieve higher-level contextual information
+HyDE: Generates a hypothetical answer to a query and embeds it for retrieval
+Step-Back Prompting: Rewrites the query into a more abstract form to retrieve higher-level contextual information
 
 These approaches increase semantic coverage and recall before downstream answer generation.
 
